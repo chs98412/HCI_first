@@ -337,3 +337,7 @@ var f= new Polygon(116,240,15,4,Math.PI*(1/3),'#9cf4fe','#9cf4fe');
 context.beginPath();
 f.createPath(context);
 f.fill(context);
+
+context.beginPath();
+f.createPath(context);
+f.fill(context);
